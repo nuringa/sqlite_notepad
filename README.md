@@ -1,5 +1,5 @@
 
-## Notepad with SQLite application
+## Notepad with SQLite
 
 A notepad to keep your records in a SQLite database - a learning project to study SQL queries and inheritance in Ruby
 
