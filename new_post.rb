@@ -2,10 +2,10 @@
 # Этот файл создает новые записи, чтением занимается другой скрипт
 
 # Подключаем класс Post и его детей: Memo, Link, Task
-require_relative 'post'
-require_relative 'memo'
-require_relative 'link'
-require_relative 'task'
+require_relative 'lib/post'
+require_relative 'lib/memo'
+require_relative 'lib/link'
+require_relative 'lib/task'
 
 puts 'Привет, я твой блокнот!'
 puts 'Версия 2, записываю новые записи в базу SQLite'
